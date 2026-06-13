@@ -2,7 +2,7 @@
   <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Muhammad Rinshad</h1>
+<h1 align="center">Hi 👋, I'm Muhammed Rinshad</h1>
 
 <h3 align="center">
 Data Science & AI Graduate | Data Analyst | Machine Learning Enthusiast
@@ -24,7 +24,6 @@ Data Science & AI Graduate | Data Analyst | Machine Learning Enthusiast
 - 📊 Interested in Data Analytics, Machine Learning, AI, and Big Data  
 - 🧹 Skilled in Data Cleaning, EDA, Visualization, and Predictive Modeling  
 - 📈 Building projects using Python, Power BI, SQL, Hadoop, and Machine Learning  
-- 🌱 Currently learning Spark, Deep Learning, and Cloud Technologies  
 - 💼 Looking for Data Analyst, Business Analyst, and Data Science opportunities  
 - 📧 Reach me at: **rinshad123rin@gmail.com**
 
