@@ -1,34 +1,32 @@
-<h1 align="center">
-  Hi 👋, I'm Muhammad Rinshad
-</h1>
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Muhammad Rinshad</h1>
 
 <h3 align="center">
 Data Science & AI Graduate | Data Analyst | Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Graduate;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Big+Data+%7C+Power+BI+%7C+Python;Turning+Data+Into+Insights" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Graduate;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Power+BI+%7C+Python+%7C+Machine+Learning;Turning+Data+Into+Insights" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rinshadrin&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=rinshadrin&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 Diploma in Data Science & Artificial Intelligence
-
-📊 Passionate about Data Analytics, Machine Learning, AI, and Big Data
-
-📈 Skilled in Data Cleaning, Data Visualization, Predictive Analytics, and Dashboard Development
-
-🌱 Currently learning Hadoop, Spark, Deep Learning, and Cloud Technologies
-
-💼 Open to Data Analyst, Business Analyst, and Data Science opportunities
-
-📧 Email: rinshad123rin@gmail.com
+- 🎓 Diploma in Data Science & Artificial Intelligence  
+- 📊 Interested in Data Analytics, Machine Learning, AI, and Big Data  
+- 🧹 Skilled in Data Cleaning, EDA, Visualization, and Predictive Modeling  
+- 📈 Building projects using Python, Power BI, SQL, Hadoop, and Machine Learning  
+- 🌱 Currently learning Spark, Deep Learning, and Cloud Technologies  
+- 💼 Looking for Data Analyst, Business Analyst, and Data Science opportunities  
+- 📧 Reach me at: **rinshad123rin@gmail.com**
 
 ---
 
@@ -36,10 +34,11 @@ Data Science & AI Graduate | Data Analyst | Machine Learning Enthusiast
 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-rinshad-80760437a">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:rinshad123rin@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
@@ -52,36 +51,54 @@ Data Science & AI Graduate | Data Analyst | Machine Learning Enthusiast
 </p>
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,hadoop" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,hadoop,powerbi,excel,jupyter" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Projects-green?style=for-the-badge" />
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 📊 Student Performance Prediction
-Machine Learning model for predicting academic performance using classification algorithms.
+<table>
+<tr>
+<td width="50%">
 
-### 🚔 National Crime Records Analysis
-Interactive analytics project using real world crime datasets.
+### 📊 Student Performance Prediction
+Machine Learning project to predict student performance using classification models.
+
+</td>
+<td width="50%">
+
+### 🚔 NCRB Crime Data Analysis
+Crime data analysis project using real world National Crime Records Bureau data.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📈 Power BI Dashboards
-Business intelligence dashboards with KPI tracking and interactive visualizations.
+Interactive dashboards with KPIs, filters, charts, and business insights.
 
-### 🗂 Big Data Analytics
-Data processing and analysis using Hadoop and Spark.
+</td>
+<td width="50%">
+
+### 🗂️ Hadoop Big Data Project
+Big data processing and analysis using Hadoop ecosystem tools.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rinshadrin&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=rinshadrin&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -102,20 +119,26 @@ Data processing and analysis using Hadoop and Spark.
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rinshadrin/rinshadrin/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=rinshadrin&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🎯 Career Objective
+## 💬 Quote
 
-To build intelligent data-driven solutions that help organizations make better decisions through Data Science, Machine Learning, and Artificial Intelligence.
+<p align="center">
+<i>Turning data into decisions through analysis, visualization, and machine learning.</i>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+<b>Thanks for visiting my profile ❤️</b>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
 </p>
