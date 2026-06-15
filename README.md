@@ -61,41 +61,6 @@ Data Science & AI Graduate | Data Analyst | Machine Learning Enthusiast
 
 ---
 
-## 📂 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 Student Performance Prediction
-Machine Learning project to predict student performance using classification models.
-
-</td>
-<td width="50%">
-
-### 🚔 NCRB Crime Data Analysis
-Crime data analysis project using real world National Crime Records Bureau data.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📈 Power BI Dashboards
-Interactive dashboards with KPIs, filters, charts, and business insights.
-
-</td>
-<td width="50%">
-
-### 🗂️ Hadoop Big Data Project
-Big data processing and analysis using Hadoop ecosystem tools.
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Analytics
 
